@@ -41,7 +41,7 @@ pageEncoding="ISO-8859-1"%>
  <span class="input-group-text" id="lblName">Year: </span>
  </div>
  <select id="ddlYear" name="ddlYear">
- <option value="0">--Select --</option>
+ <option value="0">--Select Year --</option>
  <option value="1">1st year</option>
  <option value="2">2nd year</option>
  <option value="3">3rd year</option>
